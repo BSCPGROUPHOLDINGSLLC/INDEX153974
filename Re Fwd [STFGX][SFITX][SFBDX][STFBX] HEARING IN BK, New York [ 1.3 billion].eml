@@ -1,250 +1,136 @@
-From - Wed May 18 00:01:35 2022
+From - Wed May 18 00:01:20 2022
 X-Account-Key: account1
-X-UIDL: APSf2SsZnldeYoQAYAHFII0duXQ
+X-UIDL: AP6OjjQAwRQoYoOQ8gGaKPh5DuE
 X-Mozilla-Status: 0011
 X-Mozilla-Status2: 00000000
 X-Mozilla-Keys:                                                                                 
-Received: from 10.253.31.117
- by atlas320.free.mail.gq1.yahoo.com with HTTPS; Tue, 17 May 2022 20:06:57 +0000
+Received: from 10.197.34.204
+ by atlas207.free.mail.bf1.yahoo.com with HTTPS; Tue, 17 May 2022 12:11:29 +0000
 Return-Path: <bo.dincer@yahoo.com>
-X-Originating-Ip: [98.137.70.204]
-Received-SPF: pass (domain of yahoo.com designates 98.137.70.204 as permitted sender)
-Authentication-Results: atlas320.free.mail.gq1.yahoo.com;
+X-Originating-Ip: [98.137.64.83]
+Received-SPF: pass (domain of yahoo.com designates 98.137.64.83 as permitted sender)
+Authentication-Results: atlas207.free.mail.bf1.yahoo.com;
  dkim=pass header.i=@yahoo.com header.s=s2048;
  spf=pass smtp.mailfrom=yahoo.com;
  dmarc=pass(p=REJECT) header.from=yahoo.com;
-X-Apparently-To: ms60710444266@yahoo.com; Tue, 17 May 2022 20:06:57 +0000
-X-YMailAVSC: N1HJ1Zo3bBvP_m4usvSi.NS8bQMUer5tJPh45nNjo1Tf7Od
- 1d9AHq4IdsT_pdpiCDoZBsAdsogUiYg1esw8xoxUrWDuTDbDKfXleIQ19Paq
- wZrepk5bk1RacIFq1kotVm6t27rjthoA2EXDkyBpEfg2BDUkLeFLSg3nSkUe
- 5M.UXMbaNOw0aNxeihYTEjc3.l.TGXcaM7V7CdR8KnbNJA0ITSerXZ9K2n6l
- lZBSx5_MTlfA4JqCHsz5k8cvxo8wTkmnni4rl78IKlMbybqByI_FAetk9Puj
- sT9Zg1jd36JtiSUIoMqrITYVxypJWR5uaYab9m4f3YzsSMQ9VYae4tpEBsfL
- TxXiG17WC618HV0WqWbcQ7isuNF6u3SXWtBENF7GKqqFdAYx.YJRaeOAUxmx
- BBgzLsM3aDOjdXx3XWCWeCcmrDgGuJV2heGrwYU4S2dXXozyuyJ8fB5i5n.u
- pXV1JZPqJD6F78qnw06NH68SevFgy977pDom8OYddkHE-
-X-YMailISG: DZBHC_YWLDtdl3SXUKq3YdZG_iJ4vaj9bgEEcjUZMEcJx0_H
- _YePfi1v0km8U2mSh6XQxUcYcBlaS587CUONraSasUvltJSMPXWeuVdzIGC.
- Mi6Iz_aCrjhwr_Kxt9ZU6eS7nT_vX9FxfbDH69.rIRD4dt5vUTzItf0hBCes
- 5kMFwAnfRxGTGywLZTbCCASGpOC_DSV.Nn6E7WerdL4UIIZu2WCjnik2KTPW
- 7xJX7CBCConE3sLkW2pN6fbtMOIFcs6QSEj2kcU8ByNbCME6Koax05urzpUj
- _KvXEF4MOQIjrHGM7GlHn_ISSqQUQjV8w0q5.Ac.dmJ6cRR7ukCvHqWFDmqi
- CcNfRtK67Xi8bf2UhZSglfgPmQw7bDxi30x3QpLo9NwLVuWTbTU4D.jMkrh2
- yBy3brtJJXaimt20xmhGHj3uRKdZoP22IhJGWzFIo03olK9vdLLz3raoWX6x
- Ko5wcudtj23vf6YiErmuxCPchQFxBlQZRqrDGwNOBKzaCSfAmw3xNmWY5xtg
- Tquy4hQYRjAoPTqAQl2VGs6ckWgAgubDaqH6eLxTnlhBm4tMfehYTr37Ux55
- PBWxTHk837Hvdb96lAWiZ2vbtwNgcAu8RZFXJGxS58Y4ws2kWiELPWJDdk.E
- vN0pSso8jMm4txXA41v87sDV9V7iCAmU1BwERFmwiKAbi2FcxBrV.Ggj1IZ6
- unQHphNc_2Jd5E8mU9iFDsH91r8kFJZAbSZa2dDbPAz6UszK6OytG8vilb.u
- AA80Oc6f0eKp95oB52NQwiZV5NXI2Ugt5.y313A6RWZhssKWxLon0k1gH831
- eFGby3LGyI3ggOXL6zV9irj5hLePgac2zUnx3Tyq8vpeXu0Rm5P8sKwUsds4
- jNsBrB9FS_O6.QaunqxBGSHaXxs8gVdRrA0nO4iZqE7dgwcabyi6BuA3LFAE
- qBDjQESGZJqSNIOX96ORF4mcOGytO616zK0zt2L1bSlArD8Sy2NXA10srcJw
- EUZMajg_uQMswmgUX3r.AkwyYWXORemsPGjCzE67nLivlPAWGp1rX9PAkrmr
- asAnSLM6DUQvSqTKoeNKd9RdBFm28gFCtB7MNRquisqVb0ciCLaxrV_7HRkk
- FiLsuD7l1YP9i3dlSugmE8dNQrjwOrJTxTYt3FSU7o8BxHY7m4me0STgo7LS
- 8FN.YgJzl0rhGBwlxkeM0g--
-Received: from 98.137.70.204 (EHLO sonic320-23.consmr.mail.gq1.yahoo.com)
- by 10.253.31.117 with SMTPs
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 17 May 2022 12:11:29 +0000
+X-YMailAVSC: HxKnmVk3bBvTAuO4D3nkosgHGj3lMLheQJSYWwfMHHUidxz
+ gqdKNOx7Op3wUAk0rRhTpmbBk2ChkkH_MpFsvQQbWFvTBV..mrSr5Iw3R_cM
+ GnZdoSojEB2Hz9qFwqhYGw9GBN_y0sLqTsgLN6W2r38zHEdAp26IvT_EAj0Z
+ w6O._b5Q.NquimCh5EO0qs9IF9qhJrmgNC7Pcv1JAVAQhJkKw2w_ESWsgDJw
+ 3i4DsTT8xnR8GvJnpdTSpeqd1CdZxyrSxn45YB0S4QOdtME10B.o3NUoTuwu
+ wRtA9unaXV4TqM0EkeTU4ihZzS54PEtrGMRKM1JQXPIxHYGKm3p0B4ehN6Jr
+ iE5syKCHNpkRm9_ZCUw9woP_.1rUNCngsqe9tZNHO347BYPU_ecwAPII20Jt
+ 6SAJq9vBkxVQO.W2oHcsdvp5jnA8F3CxruX077aQw0jS9sAk-
+X-YMailISG: J71K2EkWLDsGXjvGAzLaLupBwE5lOv8bPo7VJgKTzncK.S_C
+ Gdb0Uvz4qix_yp6dfZUbtcBkK6vqsr6WY09Xi.zPchwZLaz33Ei0B3WF9XYu
+ WEcWGZ3aFPpkVYww6d9xMptzvTZKtIKqJoVLSTeaSKX0sRr5SnFPwdGk9AWo
+ P43sUZGHY1PHvRqpnNSdAcf45_zA06wlD_QaAeONbDInUp5NLN5bitOE9fFy
+ ELRXT4aZjyzQJFsCgcujQbzHOGnaUXJ0_rSZSpCsoV7XozDzF.KhmjAT0nFV
+ gjvKmlE5r9tlgZ3r.ETjlJJD9qdnUDqSuUyXGPnPAlvYnOyy95QTn_mCDYOE
+ MjBE3KGFqvNyuf_Wi3oW_FBVZCK6Zgf_vMmtCqJWd2wXd4_wLLR5l6wUL0_b
+ h6RoBwzS2StRn3yKhtOyw3pC_Sh1Ua_HAz6hdp_QDaHqFFd.QoGXu96o231b
+ 1PTQYysavh2tx0p_jR8qfc_VhPTwfbJTz3HhIpQKqRVCOEGqN5tA8sYa9sU1
+ wzdgd8sU8XU6Wdl4jMHed8Q6tzWazPDCBB2mTsdh8muk7j90EaNPn9Fqflkp
+ AnQc3yYWXEN3FzjP30..xlohW6yehY_Bmvq3_E.uBLd37_CZGTI_kE.hHQ08
+ PdrAtFFpX6XtG0_nODTNahzP_hZ5vPjuD88ezifQuGjChrLod3jmBi_VY.2U
+ 1KNyfJyW2Z8E94qTqxCSquMS5huxaCeIFZhCaSNTcUnKbpmSbIZvqWWJdcyB
+ rAxgV0D5flcyBlaxNEux8sU.LclKiNusRfEXeCRElpI_.ic1CUYq_47ueHWC
+ f5aqmAuPJVth9Hh5Q.HIHfziGsEODooZzpSUZqBiAOpXRpSD9mhmEEM7Mtxy
+ bPemcr5fAGdgbq5Csl.4hNNSlc2ja2ubIx2ZV_JCJz39_cEFaTKlhDg6a8MN
+ 3ldPJTVnJMdvkT2SGHQTdaasi4S9ksyO0gSqhSgwnWfxcko6Htg1kzlmRDJt
+ OMgQSb3YaXsyjn7IZKizEO8RGXFBz5icdawHIxG31ysmmWoK8tTOqzBZpt_9
+ GxP9P8xoEOHCu5s5XmT138073btk9FlvYU.Sbx0i8nOxuWvDvaQuyUOEHLcp
+ Zpkv6yyO7ndwLMB5h4zrvnfOb1oq
+Received: from 98.137.64.83 (EHLO sonic305-20.consmr.mail.gq1.yahoo.com)
+ by 10.197.34.204 with SMTPs
  (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
- Tue, 17 May 2022 20:06:57 +0000
-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1652818017; bh=SmHKiDB6bDajHwNlHJx1PkSmWlhAPpFbnEKap3burjY=; h=Date:From:Reply-To:To:Cc:In-Reply-To:References:Subject:From:Subject:Reply-To; b=XAOkvI+tMVlHnuiQb6OTiAb5F5sEP8WCtw6k9mMw797Pwbv16utfvxGfylTcWJkq8T5uQpIWDM9kLtwgxcBJQwoVH4nsXkTw6agh/FwjYdKzugUUBgWr60+rUqCp3vJl6ecagHc0vaWjYh17L341GmlWnxzj2QgTfnu7vWNhpeTAhqdUV/+PbgrH9pu/n6TzJDU8/+swONjo7/aVctBPVMPq7rfFQ7aAm47HNtZPpamyXu27osmfktWY6HXesipy/MFCXtaYDGejilSCo9BmefGCqzi1sE5xvsjP/Fwa9lvTniXFlknP+ADbtflqADlBQ2e4cqIdVwnfvAv8s+YF+Q==
-X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1652818017; bh=wgkOy2E12ySwo0ugO7UycJ00IvUrGnZPEaKBEAmyVrT=; h=X-Sonic-MF:Date:From:To:Subject:From:Subject; b=SsGM97ppedbdcmHJ3/Cceg0pxRz28xSdr+gl52EsqeVaIOgHRA1fXaiwRQP69Dl5bRGgA+KVioVoCUEeGUggwVr8yJH/Mv+0L64JE2Y5jTWszUn8jIoVHbbVeLpF62NlEOjd7RVDCBl4Zli38R5F2DSucrZ5c7aA/gHgxpeYN6GbHA1n9+I+XvLWeER7LAUtpX4gExRfmT6aW9qtZX/QqSb2zBG4iuYKccB8huNDsTOnZ25xeFZKXuubuWsQHebGxxOGdLBZymqM0nSmtxQhhSXkJ+mqcGTaE0FnPaPOIZPj1nICd5uAntjeX6yvGNMizpBMJcDq/z5bLVWgBe4iFA==
-X-YMail-OSG: iJ2mV70VM1npws2dowVRLiwUBvvE3cDb33SY2C.WzuW0v.DA0lB09vZ5vM4PcE2
- _1mXFy7JU69vJp451FHa54vt8bz3VK5YsS.b2eIJF9iEyBxZymqOypsGUixmcIc._jCAjX0Pd531
- 8dW7xzep9csiExKwOldxCmMtHDmYRLlbivuuqDIq3zdUjkswMJwDANRNZjtoi33cbuYHgmxDznsj
- YEQcUE94c3C431PDL6LxUJQVg5WhS7QsTwKeDckBByoI9SA6lZej.lBTjXfVbq7yjSvPdQTV03IK
- wwy6NEFvMwW0uBoaa0BQK_iz2D7PpYE2p8tDVq_K22NGRsuq1F3y6IZ4XH0tHwKCKZCp6dzkmTxZ
- A8zA0ZGbIrALPjE53alvEuJdqUZGhEROfBhkSSa7Zny9ZgahAfXLoo3Q3_t9uvvj9hDqQx9jIPOn
- YjEVJnFPCoAJgrRohGYe.Ez8TRhZLcnL12JFTxCozt7Inmd3Mu9CZxlDQiKgbkxZYH2ChFXsIHDv
- 2ULdKSwe8wYf9VcnfDYLcjswNQXymOOYncAeb79GjQrBoWUYw2uJuZ4VRNnsqM24lss7cN_yNTyU
- KMII5rTEwy2_eSbqdgfiKTuReiPLEln0UFlXZNLBVmw7vQWhaOR_6V2CO5n5RL4ykwr0LmUa_rX9
- SGWo1XsuU4VMv2h8bLdLazC_Ds1FGj0TocbllvZWx5HTs7jQVVM5gXXWe8Bu4pm6VYQaBQEkvemt
- H.UZH8zxsPaP2qIGRQHt.PVnrBNaGeXrw4IOuBm.jj.NVwHUjJz6mE549nLG2s7gwbe8NEze.yS1
- LHYUj6a2Lb60W4CrWiV4U8ozTNCSOta3DhR0cbausFlHqsAdUJ3kaKRft6rwzHzJ6.W8QF01U97k
- 6L1uVWGgqqoDhZgVnMoSxmVw9DK6.pwQDzilF83zO68QUvs0ZX29QuRZdYrtuBvR4tAF68H1xTQa
- OlaagmqGleoidNDiB9Coi6vtxYdRFXHMsKltl59dqZrrR1pBcN65jUY38HEGoMGL_SK43jnbak1K
- svWx7wucTUUXY4Kzt3hNwC_rkwSd5PX9tNXCB5DgdfRYleOkgm34igJMhV_L7WH1YYibFet56B.g
- MaBY3l.B8t5AhJ3EgisvZ7gsQyEcaCTKmJ8d53A9i0pGb8D4RL1CpFZM0gnmqERvQsbRvlDtRWyI
- 7C0eFqz4xo.mvhYm2xJwQoqCtZexKXfFIWmfUtm4h4jemn_gALBalg4hfvnJ08oC831yDld54ep6
- OMROjUzM1AoiW89kx178.dFtCVpOyr.dH56FRqVqp4CkRoF9t60yrk6us.6AxY48P8mxLfL.IikB
- nEhJ_nw6Micm0YNvzU9wYK_ho2goPxAUKMdVOwAYCKSkpY3_prkVvWnrXmXU_XneDUcx_rI4HyR5
- 4gLTcMM_5xn9FuBFV7EHPXQmLXhjaMVuiizNWPFkzrMNNKYPV91CWSZuQbzZEhbiTh8ZXbEkIlFx
- V2rz1uL29an4c49xUeA0P9MGRLZBKx4UCYmB0toYNTEapli_H.LKX.QuyLNre1g9iSLSZJohDty2
- UOgHNIv2WjFOU7idry_IawQzjYHGvKXGYNCvcHDvKVvQVGziLXW40UGqQUun60Tpssdsa4okjFfo
- pXpK2n8oeYDiL1MT.Ob2sCR0YXOO7AFBnMy8BlfGw525P.vBMonmk.ZD219tP4PbtfpCTgtr.LE0
- ujEws3Cwk.ymWQ_trl3umTbeC.oMEp_h5aHF9YyUXi1DqSL7qSHgJ7NMT5wBIRaV9bcf38fLH2aZ
- KtsSalEnH7MhpopJgQ9BPEU_cP0YC3Z_V4ace5KFahRfjKw8eKQq6sZn9aCwlH4O04mZov5QylRK
- 5CJchsxcZYlIIVmFSTxpou6X3yFhUQ1WhgmLlbMOvdNiOkOTiGgoGV3cVSnWnlasg2Y3U10nkBza
- z8xH8ImQx6Myhpy7GLmOaZkKsy4Uq1zq50SVVEjriIcMGVnKCSWsrmXorBfcGsZ7RqOnVR46pbCa
- N7dDonWIfPCrstvtRf_x38AtlNVTddDJ1bjRxjsW7fPGAr0Z6TJxp8vrKOaIHZBJ2NShW0fP7gaZ
- evlXwxoHcuJDrtBXE3wP7xmSHKZUXeEzYcFYKD0UA1WgOJcfb0tSdcHBJntMXgE.EwMNw6en4krI
- 5EkpECyEaFTFNd_rRhX32HtQrwjvc7cr3Nun4kmAg22NS7QHpi3ZpotZGPTxvJqqlzcjuXTjh9Y6
- Pwo5vz2W8oWTvFbriZP2jF3giHTTY4QrSFMeLhgKmpFs_WGkI0DJl87c7tJdd_UxDCQ6BLWvUPtO
- LZfnrL6QnTfXf.eDNfikb8ywtkAZY7roCJ8X0vP2E3CfFO8WD1DModjn3pRLzM4D4YPgWWfO02dU
- _WpmkHFtvH76kttVZdtYJ7XuEHAiOSs4GvJubIsP0YM1lU2ZQ4iFSjRT3YtXkExUZ6033PiH_ulp
- 2
+ Tue, 17 May 2022 12:11:29 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1652789487; bh=/k37kgksdLLk1YJE3Gof4AO7qGJNevOWDGErcHep8+c=; h=Date:From:Reply-To:To:Cc:Subject:References:From:Subject:Reply-To; b=HyPdGtKfQ2O8Ryn1ZFszvCu+9N1gR7+zpZYSlLUzzX9lgcD5sj9vyH1jvpEbWHdrLoBFAMeX6d+9FeCV329zwq0doF5jJMC8vhw7QWEpKPSqZs1unP2PS3bD99MKF4MegKyuHyJqRNXhhihV9Gd1q8kVXGxYyTxgCrn0eJH1m86hp55oGbh0yEznxdZrG2xUFzZq7EJinOyxnhBSYeIZwvsilVp/WG6oDgZzBkow1Zp1FceZNsEfyGWT62TxbTc3U6fleS9TZn8BLTcUl5vqJT9t/5MjoTUoqOabUMQzP9iS9GL491gfxL0kcWMgr+sTatTESm2wPGEkOGGpXyDM8A==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1652789487; bh=IfPSd/CtD2CkBemcRfE1+nfXe49tjxm9TN3OkNlsUQ6=; h=X-Sonic-MF:Date:From:To:Subject:From:Subject; b=ckN/3XegmPE+JFmPjaK5dVwbkFHVydoddfk9uPfysd7UQ2evsYIAWCRbv6OOImOd8xQ4+JEYrpWuCFhdOUaK924kwfn3h2ooCYBspNsr3POGGLe/LNRVjQ0aYYuDuegOdmItAAfSUZyQQZgdfVoI4CobD+7DJa1GPtgE7q/a1n5asdzbi4NKweYE1GERIUzmomLLw+03DTxgNd9e0qqxF+7lzl3OKZXcZoF8GvjCYiLlZlrfHEDfB6ntj/iBtGFug56lc7/QYr9KwRW1giGur1ElNejh7gqaNF8ze6XDmXaWAllWbh1g+oAlcTNxqZ208nDgltHHykPD6K4rwDxoiA==
+X-YMail-OSG: UM51V1QVM1m76GS9YjYch7IfwuUXYw_n1UjeU2WYsAkcP6T8.ZZXe_r6FeOmOOg
+ SCjB1BmnNcsNu6VjrvX9k_srN4H6KMFFemY4iE.K0x4UGH39gNr9Iz3NcBV67PgVUR2TQMrWs_mm
+ 2Vsbh333RooD_1WVbqioaekDFP24jbDQ.G8pLMpu1ckt0dejSX6JpfD59RGsrS9WYFrEfnAb1kOF
+ KvRizamfQOjMjqDjDkV6fW3VZiF.sNkPd34IQkr.KuivTzyDfz4HkqwM_KEwq8d_4zCuGwdY33r.
+ 0jrRhw3JD0gmwvrvmZ2_0XtQecJ6QGae4U6eYVSVkFHokKkh4qOy9NMLDSBsf.mcnOW5hN.PoYmt
+ tbDda.iceLFSpGS.lur6OU.ZL7jzLkIGt7AhFW.9RzkDwlLAZ4W_rZYrdoScBbo0dJ2gc.oN8i1I
+ QUo6TnzZu5dpuW3QfI0kICs4cFM5hs.Y5PdK_OJTOaEvbZHE908rpo3Czk5ATkmrzPv3ykPPvk5A
+ ydq6MLi6oXWHucEZO.B4gNdUexLok9j.0VFPvOVzVI.RgNResvZkXzD_jbuUUarcT71sJ7Te.gaQ
+ jFcO9WuIQ.bEvKiyfJwPdd58Ves3MZBEfOehQFKKmTNI1NyNDkJJhUP3ZMKmlEAGuHFUhGoibXze
+ B0B.PUGTwjP6cyQeGclUCBPBd9hVAG3sd68XDOEn_iuhuEHWcBoBuDc6yFcazv27rCrusBJAkbbj
+ 1NqauZXAbTem_l7oAiy4xN4UXwn9VoPAvqT5HWrJTm_2l3cOYiYmTyzeZilgALgbWv5FrYkYCrAt
+ tHreqTsN45TvPgNjOkmr_F6JW0VbOTLo.XJX_xprJalp7AGQUDbG2SnxDp6CRFxaRJqnNuajs9bT
+ G875P1rQziZdSPBFDCWLGifxOk3UDi.YhpD1Gxrh1AkPQUjpgI24c.1z23OCUtn5QUmwaMx.qOaA
+ dvcE7ciODMt9K_Zc_FK0SnwzVQOz.z4ibdmdAq7p5VJpROVL5CIirc.v22TvE2qTA8dtWiDl7EJE
+ B5ri5Ygo4sD7bGNlBkAtX1Hw2rTd2X9z8R8JRfhs4ZpQJDCqptat_qcpIvLO4UgQIDL2ATI2gpYp
+ 3vRG1BkQCx8MsOmapcOf9JscC5FkcPKDEJao62zcLoqyveMjGWdkRFEQdwlWdErO6jTp0m3GqjRG
+ oSf3nTPqrviDW3hum5M8_n62asQXs_JUcTCqJAtW2wFaJa0OoBFevfxBa7KooGh1qpMtyRug.24T
+ lHDk1jO8Mm1fUf2DxMKydmNtUZZRcEYawLh7ckzmUvRz_gT4G_6QVOkOvQPp8NjGuR4MwpqJ_vQR
+ AKsDYCis2hPiAzz9_I4gm0YphjVvjOiS.UTHm8isyu67aHY1E3Xmsbb373dcbkYQch85kvy5zqBY
+ 3izWXHRfwaBF98h.eNwihWK7t9zGb.R4A7a.A678FQ4nQs67NNhIaMrglx7VfDbvbVQlJmliWYs_
+ aHVtzwPBTR77ECMjX_3klD5LsDrRzveM7hBZCxUr8yT3YcwnRPPmGV8DUXbI6FTAeXt_fd8bpFsJ
+ fAtOqb2Ek6mknwS4jKl1812Sux5IclHMlFN1UaVgNPjYzZ7vgjg91vMvXi4lBFOogVvagfBxyaO2
+ ZSDs0.3Wpm_SidcwXQ_AyMk0yYx8pww7.YGY8mHWjHwJ.c.sGpuDuUP1A15x80sjnQvPNHL9tYC_
+ cPOeomsSNbgHlC3IEoP9UVdLzMcIBctRBTc3JEfO4CjO5pYVu8Yo6tBvoRSKispwFk5xh41LqGe0
+ Cdai716Y5x1djsvs8OXwr2ME3cXnqbE2GrhYs016owspREje9c4OPPImqoEGZI6x.BtGHH5ZPEK3
+ ef7Ecd2tr9zI3aGxeAZQq7vRCEPRxnshGhe7VEU5j2LKgk0X61CtCBhSoqrAYG9sl8pQ2op13acY
+ 7WE4Guen5_VEQLbbgr_o3aDGao3OSOUrjmbL2IUo4iOX3PoYm6FwO.0di10RYJnHDamCv9bH1GUe
+ VVVVkqBTpY3kcoKv.CVyqU9.489C1oefiQzSYjESzN9_X1xTKP3ovsnb7Xb9Fqp9qx4gIbjDuQrq
+ Lf1GhokbFEbbuy1_NCwovXllDS2rS7Fn8_GFJPagAnRsUCK95Yc5JDER4l1X6nLlYv_7akaGw.G4
+ NdXOYVJ9.U96Uf4ZCq3.W2EXdErCne3OcV3i_qzZ_aa7CqqEVx.C2gM1ZgwkG9kJqGFS9DzF8HVw
+ _t9Myki5FO6DtORW_x8LcCWk6L3znvrovsA01Fyqc26U6UfvOJ5R62fYEWeJpxa0nGJDmGp_vk5x
+ iA9rOXF_1ci98eO_y0hidX0OVtNMfHnvPfvWQsu3suqXe.1TV1OhIFLXZzkuZhi5BOaumf38Q6ra
+ 2ermD4a8Kject_91IYNWjxdptJRvMkvh4a1kgKHRJV90RGXeDPHylOgjOVUKBK3b6Wc6h6HA-
 X-Sonic-MF: <bo.dincer@yahoo.com>
-Received: from sonic.gate.mail.ne1.yahoo.com by sonic320.consmr.mail.gq1.yahoo.com with HTTP; Tue, 17 May 2022 20:06:57 +0000
-Date: Tue, 17 May 2022 20:06:54 +0000 (UTC)
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic305.consmr.mail.gq1.yahoo.com with HTTP; Tue, 17 May 2022 12:11:27 +0000
+Date: Tue, 17 May 2022 12:11:22 +0000 (UTC)
 From: Bo Dincer <bo.dincer@yahoo.com>
 Reply-To: "bo.dincer@yahoo.com" <bo.dincer@yahoo.com>
-To: "bdincer66@icloud.com" <bdincer66@icloud.com>, 
-	"edi.civil.rights.division@irs.gov" <edi.civil.rights.division@irs.gov>, 
-	"eca_press@state.gov" <eca_press@state.gov>, 
-	"teschmann@mskyline.com" <teschmann@mskyline.com>, 
-	"18pctdvo@nypd.org" <18pctdvo@nypd.org>, 
-	"18pctyco@nypd.org" <18pctyco@nypd.org>, 
-	"cbrooks7@bloomberg.net" <cbrooks7@bloomberg.net>, 
-	"10pctdvo@nypd.org" <10pctdvo@nypd.org>, 
-	"Bloomberg L.P." <bbrief@bloomberg.net>, 
-	"1pctdvo@nypd.org" <1pctdvo@nypd.org>, 
-	"1pctyco@nypd.org" <1pctyco@nypd.org>, 
-	"23pctdvo@nypd.com" <23pctdvo@nypd.com>, 
-	"iceglobalnetwork-info@ice.com" <iceglobalnetwork-info@ice.com>, 
-	"23pctyco@nypd.org" <23pctyco@nypd.org>, 
-	"ksaperstein2@bloomberg.net" <ksaperstein2@bloomberg.net>, 
-	"dcaoletters@sec.gov" <dcaoletters@sec.gov>, 
-	"JPMCinvestorrelations@jpmchase.com" <JPMCinvestorrelations@jpmchase.com>, 
-	"10pctyco@nypd.org" <10pctyco@nypd.org>, 
-	BD <bondstrt@protonmail.com>, Chair <chair@sec.gov>, 
-	Tennesse <sbarchenger@tennessean.com>, Newyork <newyork@sec.gov>, 
-	MSRB <msrbsupport@msrb.org>, MSKYLINE <ANNE@thehighlandpartners.com>, 
-	BBO 121 <ms60710444266@yahoo.com>, 
-	"dallas-reserve-mgmt@dal.frb.org" <dallas-reserve-mgmt@dal.frb.org>, 
-	"ashley.humphrie@wilsonelser.com" <ashley.humphrie@wilsonelser.com>, 
-	"GSAMOnlineRequest@gs.com" <GSAMOnlineRequest@gs.com>, 
-	"blaw.content@bloomberg.net" <blaw.content@bloomberg.net>, 
-	"matthew.chase@lw.com" <matthew.chase@lw.com>, 
-	"marc.jaffe@lw.com" <marc.jaffe@lw.com>, 
-	"ofac_feedback@treasury.gov" <ofac_feedback@treasury.gov>, 
-	"dion.gaspard@nypd.org" <dion.gaspard@nypd.org>, 
-	"rosalyn.marcus@finra.org" <rosalyn.marcus@finra.org>, 
-	"legalasst@mskyline.com" <legalasst@mskyline.com>, 
-	"rebecca.coyle@statefarm.com" <rebecca.coyle@statefarm.com>, 
-	"garrett.marquis@bnymellon.com" <garrett.marquis@bnymellon.com>, 
-	"ted.banner@bnymellon.com" <ted.banner@bnymellon.com>, 
-	"CHICAGO@sec.gov" <CHICAGO@sec.gov>, 
-	"TEDHERMANSON@northmarq.com" <TEDHERMANSON@northmarq.com>, 
-	"amount@bressler.com" <amount@bressler.com>, 
-	"asksipc@sipc.org" <asksipc@sipc.org>, 
-	"efoia@fdic.gov" <efoia@fdic.gov>, 
-	"electronicfilings@ftc.gov" <electronicfilings@ftc.gov>, 
-	"gs@gs.com" <gs@gs.com>, 
-	"infor@solowresidential.com" <infor@solowresidential.com>, 
-	"LZUCKER@mskyline.com" <LZUCKER@mskyline.com>, 
-	"mshyld@bloomberg.net" <mshyld@bloomberg.net>, 
-	"newsoffice@mit.edu" <newsoffice@mit.edu>, 
-	"oca@sec.gov" <oca@sec.gov>, 
-	"privacypolicy@related.com" <privacypolicy@related.com>, 
-	"shareholderproposals@sec.gov" <shareholderproposals@sec.gov>, 
-	"slaskowitz@mskyline.com" <slaskowitz@mskyline.com>, 
-	"tips@insider.com" <tips@insider.com>, 
-	"tips@latimes.com" <tips@latimes.com>, 
-	"tips@nytimes.com" <tips@nytimes.com>, 
-	"tips@vibe.com" <tips@vibe.com>, 
-	"wmckenzie@nycourts.gov" <wmckenzie@nycourts.gov>, 
-	FTC ANTITRUST <antitrust@ftc.gov>, 
-	Brooklyn Tap House <tips@nypost.com>, 
-	CRC FTC REPORTS <crcmessages@ftc.gov>, 
-	CS TEAM <Activations@hutchmen.com>, 
-	BRIAN HODGSON <BRIAN.HODGSON.NYZ6@statefarm.com>, 
-	Debra Tama <debra.tama@wilsonelser.com>, 
-	Dian Zhu <dian.zhu@finra.org>, 
-	FOX ROTHSCHILD <JROSE@foxrothschild.com>, 
-	Paul Regan <legal@mskyline.com>, 
-	Ricki Roer <ricki.roer@wilsonelser.com>, 
-	Shari Laskowitz <slaskowitz@ingramllp.com>, 
-	Stephen O'Connell <sgo2107@adcu.columbia.edu>, 
-	Alan Morrison <ajm157@columbia.edu>, 
-	Alan Andreini <aandreini@fortress.com>, 
-	UNITED ARTISTS MUSIC <investorrelations@umusic.com>, 
-	UNIVERSAL EDITORIAL <investmentnews@editorial.investmentnews.com>, 
-	WILLIAM BEHR <william.behr@wilsonelser.com>, 
-	ZUCKER ORGANIZATION <jgiamboi@mskyline.com>, 
-	Bressler Info <INFO@bressler.com>, 
-	Finra Webmaster <webmaster@finra.org>, 
-	JAMES GORMAN <james.gorman@morganstanley.com>, 
-	Joseph Giamboi <joseph.giamboi@brooklaw.edu>, 
-	LA TIMES NEWSLETTERS <newsletters@latimes.com>, 
-	Lee Bollinger <bollinger@columbia.edu>, 
-	Lee Bollinger <officeofthepresident@columbia.edu>, 
-	Lori Semlies <lori.semlies@wilsonelser.com>, 
-	MATT HARVEY <mharvey13@bloomberg.net>, MATT LOWE <mlowe@fdic.gov>, 
-	MIKE DANILACK <MIKE.DANILACK@us.pwc.com>, 
-	Amy Hanrahan <amy.hanrahan@wilsonelser.com>, 
-	Alan Rubin <alan.rubin@wilsonelser.com>, 
-	PAM OLSON <PAM.OLSON@us.pwc.com>, 
-	PETER MERILL <PETER.MERILL@us.pwc.com>, 
-	"Lauren M. Zink" <lauren.zink@wilsonelser.com>, 
-	"executive_education@mailsvc.sloan.mit.edu" <executive_education@mailsvc.sloan.mit.edu>, 
-	"Ashley V. Humphries" <ashley.humphries@wilsonelser.com>, 
-	"Roger R. Gottilla" <roger.gottilla@wilsonelser.com>
-Cc: "tedhermanson@northmarq.com" <tedhermanson@northmarq.com>, 
-	Jpetit <jpetit@mccarter.com>, 
-	"tmprosecutordocs@uspto.gov" <tmprosecutordocs@uspto.gov>, 
-	"tmc-corps@bloomberg.net" <tmc-corps@bloomberg.net>, 
-	"mediarequests@fdic.gov" <mediarequests@fdic.gov>, 
-	"media@chi.frb.org" <media@chi.frb.org>, 
-	"dallas-reserve-mgmt@dal.frb.org" <dallas-reserve-mgmt@dal.frb.org>, 
-	"victimassistance.fraud@usdoj.gov" <victimassistance.fraud@usdoj.gov>
-Message-ID: <1960036050.359568.1652818014401@mail.yahoo.com>
-In-Reply-To: <811149782.211503.1651767485464@mail.yahoo.com>
-References: <0A01466B-806D-4B80-A56C-96CB68B2518E@icloud.com> <811149782.211503.1651767485464@mail.yahoo.com>
-Subject: Re: Fwd: TAX EVASION
+To: "Josephine.Vella@finra.org" <Josephine.Vella@finra.org>
+Cc: "help@sec.gov" <help@sec.gov>, "info@ap.com" <info@ap.com>, 
+	"rss@ap.com" <rss@ap.com>, 
+	"bondstrt007@gmail.com" <bondstrt007@gmail.com>, 
+	"bdincer66@icloud.com" <bdincer66@icloud.com>, 
+	"ms60710444266@yahoo.com" <ms60710444266@yahoo.com>, 
+	Newyork <newyork@sec.gov>, 
+	Chicago Office Equipment & Supplies <chicago@sec.gov>, 
+	MSRB <msrbsupport@msrb.org>, 
+	"JAMES GORMAN [MORGAN STANLEY]" <james.gorman@morganstanley.com>
+Message-ID: <1668293546.167481.1652789482575@mail.yahoo.com>
+Subject: Re: Fwd: [STFGX][SFITX][SFBDX][STFBX]  HEARING IN BK, New York [
+ 1.3 billion]
 MIME-Version: 1.0
 Content-Type: multipart/mixed; 
-	boundary="----=_Part_359567_836938588.1652818014401"
+	boundary="----=_Part_167480_350031750.1652789482575"
+References: <1668293546.167481.1652789482575.ref@mail.yahoo.com>
 X-Mailer: WebService/1.1.20188 YahooMailAndroidMobile
-Content-Length: 951003
+Content-Length: 949866
 
-------=_Part_359567_836938588.1652818014401
+------=_Part_167480_350031750.1652789482575
 Content-Type: multipart/alternative; 
-	boundary="----=_Part_359564_666181908.1652818014055"
+	boundary="----=_Part_167479_1846347705.1652789482569"
 
-------=_Part_359564_666181908.1652818014055
+------=_Part_167479_1846347705.1652789482569
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 7bit
 
-Re: DID YOU PROVIDE NOTICE, PRE, OR POST MERGER TO THE OTHER FIRMS
-
-Sent from Yahoo Mail on Android
 
 
 
- 
- 
-------=_Part_359564_666181908.1652818014055
+------=_Part_167479_1846347705.1652789482569
 Content-Type: text/html; charset=UTF-8
-Content-Transfer-Encoding: quoted-printable
+Content-Transfer-Encoding: 7bit
 
-<div id=3D"yiv5277044845"><html><div><div id=3D"yiv5277044845"><div>Re: DID=
- YOU PROVIDE NOTICE, PRE, OR POST MERGER TO THE OTHER FIRMS<br clear=3D"non=
-e"><br clear=3D"none"><div id=3D"yiv5277044845ymail_android_signature"><a r=
-el=3D"nofollow noopener noreferrer" shape=3D"rect" id=3D"yiv5277044845yMail=
-_cursorElementTracker_1652789477641" target=3D"_blank" href=3D"https://go.o=
-nelink.me/107872968?pid=3DInProduct&amp;c=3DGlobal_Internal_YGrowth_Android=
-EmailSig__AndroidUsers&amp;af_wl=3Dym&amp;af_sub1=3DInternal&amp;af_sub2=3D=
-Global_YGrowth&amp;af_sub3=3DEmailSignature">Sent from Yahoo Mail on Androi=
-d</a></div><div id=3D"yiv5277044845yMail_cursorElementTracker_1652789478624=
-"><br clear=3D"none"></div><div id=3D"yiv5277044845yMail_cursorElementTrack=
-er_1652789478854"><div class=3D"yiv5277044845yahoo-compose-assist-image-car=
-d yiv5277044845ymail-android-inline-img-container yiv5277044845ymail-card">=
-<img id=3D"yiv5277044845ymail_attachmentId772458" src=3D"cid:t8Bhy4mfOqjlqQ=
-SiHRaU" yahoo_partid=3D"2" style=3D"width:100%;max-width:800px;" class=3D"y=
-iv5277044845inline-image-global yiv5277044845inlined-image-cid-b67cddf2-566=
-8-4050-a091-74e5e96176eb"><br clear=3D"none"></div><br clear=3D"none"><br c=
-lear=3D"none"></div> <br clear=3D"none"> <div id=3D"yiv5277044845yqt95387" =
-class=3D"yiv5277044845yqt7037200956 yQTDBase"></div></div></div></div></htm=
-l></div>
-------=_Part_359564_666181908.1652818014055--
+<div class="yahoo-compose-assist-image-card ymail-android-inline-img-container ymail-card" contenteditable="false"><img id="ymail_attachmentId772455" class="inline-image-global inlined-image-cid-a07fc271-3e0e-455e-a0a5-a03e4414c951" src="cid:a07fc271-3e0e-455e-a0a5-a03e4414c951" style="width:100%;max-width:800px;"><br></div><br>
+------=_Part_167479_1846347705.1652789482569--
 
-------=_Part_359567_836938588.1652818014401
+------=_Part_167480_350031750.1652789482575
 Content-Type: image/jpeg
 Content-Transfer-Encoding: base64
 Content-Disposition: inline; filename="Screenshot_20220517-073527_Yahoo
  Mail.jpg"
-Content-ID: <t8Bhy4mfOqjlqQSiHRaU>
+Content-ID: <a07fc271-3e0e-455e-a0a5-a03e4414c951>
+Content-Length: 702359
 
 /9j/4QEZRXhpZgAATU0AKgAAAAgABQEAAAMAAAABBDgAAAEBAAMAAAABCOgAAAExAAIAAAAmAAAA
 SodpAAQAAAABAAAAcAESAAMAAAABAAAAAAAAAABBbmRyb2lkIFNQMUEuMjEwODEyLjAxNi5HOTcw
@@ -12570,4 +12456,4 @@ xjGMYxjGMYxjGMYxjGMYxjGMYxjGMYxjGMYxjGMYxjGMYxjGMYxjGMYxjGMYxjGMYxjGMYxjGMYx
 jGMYxjGMYxjGMYxjGMYxjGMYxjGMYxjGMYxjGMYxjGMYxjGMYxjGMYxjGMYxjGMYxjGMYxjGMYxj
 GMYz/9k=
 
-------=_Part_359567_836938588.1652818014401--
+------=_Part_167480_350031750.1652789482575--
